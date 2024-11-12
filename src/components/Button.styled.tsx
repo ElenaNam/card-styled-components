@@ -16,7 +16,7 @@ export const Button = styled.button<ButtonPropsType>`
 
     font-size: 10px;
     line-height: 20px;
-    font-family: Inter;
+    font-family: Inter, sans-serif;;
     font-weight: 700;
 
     &:active {
