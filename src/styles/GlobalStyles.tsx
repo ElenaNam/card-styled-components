@@ -35,6 +35,7 @@ export const GlobalStyles = createGlobalStyle`
     }
 
     .card__btns {
+        padding: 0 10px;
         display: flex;
         gap: 12px;
     }
